@@ -3,8 +3,9 @@ This website really allowed me to understand how React.JS works and how i can in
 
 **Link to project:** (https://m3-evo-page.vercel.app/)
 <img width="1393" alt="Screenshot 2024-04-20 at 10 56 36 PM" src="https://github.com/Fawazie/M3-Evo-page/assets/78445573/b69b468b-4415-4a2e-bcc6-bfb0e92e74e6">
+<img width="1395" alt="Screenshot 2024-04-20 at 10 55 35 PM" src="https://github.com/Fawazie/M3-Evo-page/assets/78445573/802f0316-d9b1-484e-98ce-7c51b4cfc7af">
 
-<img width="1440" alt="Screenshot 2024-04-20 at 10 55 04 PM" src="https://github.com/Fawazie/M3-Evo-page/assets/78445573/81aae722-9a7a-4092-96b2-f61a239c953c">
+
 
 
 
