@@ -1,27 +1,65 @@
 .Hero {
-    margin: 0px 120px;
-    margin-top: 250px;
+    margin: 0vw 8vw;
+    margin-top: 33vh;
+
+
 
 }
+
+@media (max-width: 1024px) {
+
+    /* Adjusting for tablets and below */
+    .Hero {
+
+        margin-top: 10vh;
+    }
+}
+
+
+
+
 
 .hero-text {
 
-    font-size: 80px;
-    font-weight: 500;
-    line-height: 80px;
-    color: rgba(255, 255, 255, 0.601);
 
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.601);
+    font-size: 5rem;
+    line-height: 1;
 }
+
+@media (max-width: 930px) {
+
+    /*  14 Pro Max in landscape */
+    .hero-text {
+        font-size: 3rem;
+        /* Smaller font size */
+    }
+
+    .hero-explore {
+        margin-top: 5vh;
+        /* Reduced vertical spacing */
+        padding: 5px 5%;
+        /* Adjusted padding */
+    }
+
+    .hero-explore p {
+        font-size: 5px;
+    }
+}
+
+
 
 .hero-explore {
     display: flex;
     align-items: center;
-    gap: 50px;
+    gap: 1vw;
+    justify-content: center;
     width: fit-content;
     margin-top: 100px;
-    padding: 5px 8px;
+    padding: 0.2rem 0.5rem;
     padding-left: 30px;
-    border-radius: 60px;
+    border-radius: 5vw;
     background-color: rgba(255, 255, 255, 0.764);
     cursor: pointer;
 
@@ -31,6 +69,14 @@
     color: #292929;
     font-size: 15px;
     font-size: 500;
+}
+
+@media (max-width: 930px) {
+
+
+    .hero-explore p {
+        font-size: 0.8rem;
+    }
 }
 
 .arrow-btn {
